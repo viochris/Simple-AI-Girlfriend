@@ -76,5 +76,5 @@ A glimpse of chatting with Aura in "Cheerful" mode:
 ![App Interface](assets/app_interface.png)
 
 ---
-**Author:** [Silvio Christian Joe](https://github.com/viochris)
+**Author:** [Silvio Christian, Joe](https://github.com/viochris)
 *"Code with heart, Data with soul."*
