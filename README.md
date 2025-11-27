@@ -66,7 +66,14 @@ The application uses a `create_react_agent` from LangChain. Here is the simplifi
     * Start chatting!
 
 ## 📷 Screenshots
-*(Add screenshots of the UI here to make it attractive)*
+
+### Dynamic Persona Selection
+Users can choose from various personalities in the sidebar settings:
+![Persona Settings](assets/personality_settings.png)
+
+### Interactive Chat Interface
+A glimpse of chatting with Aura in "Cheerful" mode:
+![App Interface](assets/app_interface.png)
 
 ---
 **Author:** [Silvio Christian Joe](https://github.com/viochris)
