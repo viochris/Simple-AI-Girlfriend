@@ -1,6 +1,6 @@
 """
 Project: Aura - AI Girlfriend with Dynamic Personalities
-Author: Silvio Christian Joe
+Author: Silvio Christian, Joe
 Description: 
     This Streamlit application implements a conversational AI agent using LangChain and Google Gemini.
     It features a dynamic persona system where the AI adapts its behavior based on user selection.
@@ -225,3 +225,4 @@ if prompt:
     
     # 4. Save to History
     st.session_state.messages.append({"role": "ai", "content": answer})
+
