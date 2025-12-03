@@ -226,3 +226,4 @@ if prompt:
     # 4. Save to History
     st.session_state.messages.append({"role": "ai", "content": answer})
 
+
